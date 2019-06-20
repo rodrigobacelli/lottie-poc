@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Lottie + React",
+  "name": "Simple test using lottie-web and react",
   "icons": [
     {
       "src": "favicon.ico",
