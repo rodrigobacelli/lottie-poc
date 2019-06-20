@@ -4,9 +4,7 @@ import React from 'react';
 import lottie from 'lottie-web';
 import animationData from './animations/animation.json';
 
-type Props = {};
-
-export default class Animation extends React.PureComponent<Props> {
+export default class Animation extends React.PureComponent<> {
   constructor(props: Props) {
     super(props);
 
