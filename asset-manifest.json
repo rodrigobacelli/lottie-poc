@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lottie-test/static/css/main.3fd14823.chunk.css",
-    "main.js": "/lottie-test/static/js/main.528f8678.chunk.js",
-    "main.js.map": "/lottie-test/static/js/main.528f8678.chunk.js.map",
+    "main.js": "/lottie-test/static/js/main.114e6726.chunk.js",
+    "main.js.map": "/lottie-test/static/js/main.114e6726.chunk.js.map",
     "runtime~main.js": "/lottie-test/static/js/runtime~main.3254a490.js",
     "runtime~main.js.map": "/lottie-test/static/js/runtime~main.3254a490.js.map",
-    "static/js/2.3bf54b74.chunk.js": "/lottie-test/static/js/2.3bf54b74.chunk.js",
-    "static/js/2.3bf54b74.chunk.js.map": "/lottie-test/static/js/2.3bf54b74.chunk.js.map",
+    "static/js/2.bfed9c9e.chunk.js": "/lottie-test/static/js/2.bfed9c9e.chunk.js",
+    "static/js/2.bfed9c9e.chunk.js.map": "/lottie-test/static/js/2.bfed9c9e.chunk.js.map",
     "index.html": "/lottie-test/index.html",
-    "precache-manifest.ee8cfc75da6fe3681ae423bad03865f0.js": "/lottie-test/precache-manifest.ee8cfc75da6fe3681ae423bad03865f0.js",
+    "precache-manifest.a4debb685310d94a71e288c4d022bccf.js": "/lottie-test/precache-manifest.a4debb685310d94a71e288c4d022bccf.js",
     "service-worker.js": "/lottie-test/service-worker.js",
     "static/css/main.3fd14823.chunk.css.map": "/lottie-test/static/css/main.3fd14823.chunk.css.map"
   }
