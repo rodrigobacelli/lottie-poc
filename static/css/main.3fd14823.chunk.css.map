@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QACF,CAEA,sBAGE,YAAa,CACb,WACF","file":"main.3fd14823.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n\n.root,\n.App,\n.Animation {\n  height: 100vh;\n  width: 100vw;\n}\n\n/*.Animation {*/\n/*  align-items: center;*/\n/*  display: flex;*/\n/*  justify-content: center;*/\n/*}*/\n"]}
